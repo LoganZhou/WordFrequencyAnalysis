@@ -5,7 +5,3 @@ This is a tool for English word frequency analysis.
 - NLP Package of Stanford University
 - Apache POI
 - Apache PDFBox
-
-[Download Link](http://pan.baidu.com/s/1hrFgdTy) Download password:reve
-
-
